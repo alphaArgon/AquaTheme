@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DVTConsoleDebuggerInputTextColor</key>
+	<string>0.85016 0.882148 0.921313 1</string>
+	<key>DVTConsoleDebuggerOutputTextColor</key>
+	<string>0.85016 0.882148 0.921313 1</string>
+	<key>DVTConsoleDebuggerPromptTextColor</key>
+	<string>0.110714 0.698165 0.012534 1</string>
+	<key>DVTConsoleExectuableInputTextColor</key>
+	<string>0.85016 0.882148 0.921313 1</string>
+	<key>DVTConsoleExectuableOutputTextColor</key>
+	<string>0.85016 0.882148 0.921313 1</string>
+	<key>DVTConsoleTextBackgroundColor</key>
+	<string>0.109177 0.117454 0.126343 1</string>
+	<key>DVTConsoleTextInsertionPointColor</key>
+	<string>0.999999 0.999974 0.999991 1</string>
+	<key>DVTConsoleTextSelectionColor</key>
+	<string>0.265108 0.321677 0.458558 1</string>
+	<key>DVTDebuggerInstructionPointerColor</key>
+	<string>0.110394 0.329012 0.325574 1</string>
+	<key>DVTFontAndColorVersion</key>
+	<integer>1</integer>
+	<key>DVTSourceTextBackground</key>
+	<string>0.109177 0.117454 0.126343 1</string>
+	<key>DVTSourceTextBlockDimBackgroundColor</key>
+	<string>0.5 0.5 0.5 1</string>
+	<key>DVTSourceTextCurrentLineHighlightColor</key>
+	<string>0.132808 0.152747 0.18857 1</string>
+	<key>DVTSourceTextInsertionPointColor</key>
+	<string>0.999999 0.999974 0.999991 1</string>
+	<key>DVTSourceTextInvisiblesColor</key>
+	<string>0.238717 0.282573 0.322158 1</string>
+	<key>DVTSourceTextSelectionColor</key>
+	<string>0.265108 0.321677 0.458558 1</string>
+	<key>DVTSourceTextSyntaxColors</key>
+	<dict>
+		<key>xcode.syntax.attribute</key>
+		<string>0.992101 0.604188 0.0343074 1</string>
+		<key>xcode.syntax.character</key>
+		<string>0.911911 0.685483 0.0335049 1</string>
+		<key>xcode.syntax.comment</key>
+		<string>0.392654 0.457718 0.529328 1</string>
+		<key>xcode.syntax.comment.doc</key>
+		<string>0.392654 0.457718 0.529328 1</string>
+		<key>xcode.syntax.comment.doc.keyword</key>
+		<string>0.460715 0.52833 0.602383 1</string>
+		<key>xcode.syntax.declaration.other</key>
+		<string>0.467394 0.751108 0.998943 1</string>
+		<key>xcode.syntax.declaration.type</key>
+		<string>0.611896 0.919064 0.999306 1</string>
+		<key>xcode.syntax.identifier.class</key>
+		<string>0.611896 0.919064 0.999306 1</string>
+		<key>xcode.syntax.identifier.class.system</key>
+		<string>0.910623 0.659365 0.99942 1</string>
+		<key>xcode.syntax.identifier.constant</key>
+		<string>0.467394 0.751108 0.998943 1</string>
+		<key>xcode.syntax.identifier.constant.system</key>
+		<string>0.74818 0.423783 0.998968 1</string>
+		<key>xcode.syntax.identifier.function</key>
+		<string>0.467394 0.751108 0.998943 1</string>
+		<key>xcode.syntax.identifier.function.system</key>
+		<string>0.74818 0.423783 0.998968 1</string>
+		<key>xcode.syntax.identifier.macro</key>
+		<string>0.75098 0.532594 0.207813 1</string>
+		<key>xcode.syntax.identifier.macro.system</key>
+		<string>0.75098 0.532594 0.207813 1</string>
+		<key>xcode.syntax.identifier.type</key>
+		<string>0.611896 0.919064 0.999306 1</string>
+		<key>xcode.syntax.identifier.type.system</key>
+		<string>0.910623 0.659365 0.99942 1</string>
+		<key>xcode.syntax.identifier.variable</key>
+		<string>0.467394 0.751108 0.998943 1</string>
+		<key>xcode.syntax.identifier.variable.system</key>
+		<string>0.74818 0.423783 0.998968 1</string>
+		<key>xcode.syntax.keyword</key>
+		<string>0.988479 0.368784 0.460226 1</string>
+		<key>xcode.syntax.mark</key>
+		<string>0.460715 0.52833 0.602383 1</string>
+		<key>xcode.syntax.markup.code</key>
+		<string>0.9901 0.507648 0.755736 1</string>
+		<key>xcode.syntax.number</key>
+		<string>0.911911 0.685483 0.0335049 1</string>
+		<key>xcode.syntax.plain</key>
+		<string>0.888115 0.906649 0.926255 1</string>
+		<key>xcode.syntax.preprocessor</key>
+		<string>0.75098 0.532594 0.207813 1</string>
+		<key>xcode.syntax.string</key>
+		<string>0.534761 0.693514 0.020968 1</string>
+		<key>xcode.syntax.url</key>
+		<string>0.333251 0.590031 0.998662 1</string>
+	</dict>
+</dict>
+</plist>
