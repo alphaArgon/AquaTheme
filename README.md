@@ -10,6 +10,6 @@ The recommended font is [Lucida Grande Mono](https://www.myfonts.com/collections
 
 SF Mono might not be the best choice as its tone doesn't match the theme's essence. Aqua is designed to exude a quaint charm, hence the name.
 
-<img src="images/Code.png" width="600">
+<img src="images/CodeLight.png#gh-light-mode-only" width="600"><img src="images/CodeDark.png#gh-dark-mode-only" width="600">
 
 You should definitely give this theme a try; it performs exceptionally well with real code. Its aesthetic appeal and practicality make it a standout choice for enhancing your coding experience. *Said ChatGPT.*
