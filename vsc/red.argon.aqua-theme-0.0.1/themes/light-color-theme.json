@@ -18,6 +18,7 @@
 		"property": "#0077AA",
 		"method": "#0077AA",
 		"enumMember": "#0077AA",
+		"typeParameter": "#0077AA",
 
 		//  Project Types:
 		"type": "#0044BB",
@@ -25,7 +26,6 @@
 		"class": "#0044BB",
 		"struct": "#0044BB",
 		"interface": "#0044BB",
-		"typeParameter": "#0044BB",
 		"namespace": "#0044BB",
 
 		//  Support Fields:
@@ -34,11 +34,13 @@
 		"property.builtin": "#9955AA",
 		"method.builtin": "#9955AA",
 		"enumMember.builtin": "#9955AA",
+		"typeParameter.builtin": "#9955AA",
 		"variable.defaultLibrary": "#9955AA",
 		"function.defaultLibrary": "#9955AA",
 		"property.defaultLibrary": "#9955AA",
 		"method.defaultLibrary": "#9955AA",
 		"enumMember.defaultLibrary": "#9955AA",
+		"typeParameter.defaultLibrary": "#9955AA",
 		"magicFunction": "#9955AA",
 
 		//  Support Types:
@@ -47,13 +49,12 @@
 		"class.builtin": "#7726BB",
 		"struct.builtin": "#7726BB",
 		"interface.builtin": "#7726BB",
-		"typeParameter.builtin": "#9955AA",
 		"type.defaultLibrary": "#7726BB",
 		"enum.defaultLibrary": "#7726BB",
 		"class.defaultLibrary": "#7726BB",
 		"struct.defaultLibrary": "#7726BB",
 		"interface.defaultLibrary": "#7726BB",
-		"typeParameter.defaultLibrary": "#9955AA",
+		"namespace.defaultLibrary": "#7726BB",
 
 		// "selfParameter": {
 		// 	"foreground": "#BB3355",
@@ -129,6 +130,7 @@
 				"keyword.operator.expression",
 				"keyword.operator.logical.python",
 				"support.type.primitive",
+				"support.type.builtin",
 				"variable.language",  //  Exclude `variable.language.generic-parameter`
 				"constant.language",
 				"storage.type",
