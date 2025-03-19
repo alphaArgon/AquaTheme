@@ -18,7 +18,6 @@
 		"property": "#0077AA",
 		"method": "#0077AA",
 		"enumMember": "#0077AA",
-		"typeParameter": "#0077AA",
 
 		//  Project Types:
 		"type": "#0044BB",
@@ -27,6 +26,7 @@
 		"struct": "#0044BB",
 		"interface": "#0044BB",
 		"namespace": "#0044BB",
+		"typeParameter": "#0044BB",
 
 		//  Support Fields:
 		"variable.builtin": "#9955AA",
@@ -183,6 +183,9 @@
 				"variable.argument.less",  // CSS
 				"variable.argument.scss",  // CSS
 				"variable.argument.sass",  // CSS
+				"variable.other.property",
+				"variable.other.object.property",
+				"meta.object-literal.key",
 			],
 			"settings": {
 				"foreground": "#0077AA",
