@@ -150,6 +150,7 @@
 				"storage.type.function.arrow",
 				"variable.other",
 				"meta.embedded",
+				"punctuation.separator",
 			],
 			"settings": {
 				"foreground": "#112244",
