@@ -30,36 +30,59 @@
 
 		//  Support Fields:
 		"variable.builtin": "#CC88FF",
-		"function.builtin": "#CC88FF",
-		"property.builtin": "#CC88FF",
-		"method.builtin": "#CC88FF",
-		"enumMember.builtin": "#CC88FF",
-		"typeParameter.builtin": "#EEBBFF",
+		"variable.library": "#CC88FF",
 		"variable.defaultLibrary": "#CC88FF",
+		"function.builtin": "#CC88FF",
+		"function.library": "#CC88FF",
 		"function.defaultLibrary": "#CC88FF",
+		"property.builtin": "#CC88FF",
+		"property.library": "#CC88FF",
 		"property.defaultLibrary": "#CC88FF",
+		"method.builtin": "#CC88FF",
+		"method.library": "#CC88FF",
 		"method.defaultLibrary": "#CC88FF",
+		"enumMember.builtin": "#CC88FF",
+		"enumMember.library": "#CC88FF",
 		"enumMember.defaultLibrary": "#CC88FF",
-		"typeParameter.defaultLibrary": "#EEBBFF",
 		"magicFunction": "#CC88FF",
+		"unresolvedReference": "#CC88FF",
 
 		//  Support Types:
 		"type.builtin": "#EEBBFF",
-		"enum.builtin": "#EEBBFF",
-		"class.builtin": "#EEBBFF",
-		"struct.builtin": "#EEBBFF",
-		"interface.builtin": "#EEBBFF",
+		"type.library": "#EEBBFF",
 		"type.defaultLibrary": "#EEBBFF",
+		"enum.builtin": "#EEBBFF",
+		"enum.library": "#EEBBFF",
 		"enum.defaultLibrary": "#EEBBFF",
+		"class.builtin": "#EEBBFF",
+		"class.library": "#EEBBFF",
 		"class.defaultLibrary": "#EEBBFF",
+		"struct.builtin": "#EEBBFF",
+		"struct.library": "#EEBBFF",
 		"struct.defaultLibrary": "#EEBBFF",
+		"interface.builtin": "#EEBBFF",
+		"interface.library": "#EEBBFF",
 		"interface.defaultLibrary": "#EEBBFF",
+		"namespace.builtin": "#EEBBFF",
+		"namespace.library": "#EEBBFF",
 		"namespace.defaultLibrary": "#EEBBFF",
+		"typeParameter.builtin": "#EEBBFF",
+		"typeParameter.library": "#EEBBFF",
+		"typeParameter.defaultLibrary": "#EEBBFF",
 
-		// "selfParameter": {
-		// 	"foreground": "#FF7788",
-		// 	"fontStyle": "bold",
-		// }
+		//  Builtins:
+		"builtinType": {
+			"foreground": "#FF7788",
+			"fontStyle": "bold",
+		},
+		"selfKeyword": {
+			"foreground": "#FF7788",
+			"fontStyle": "bold",
+		},
+		"selfParameter": {
+			"foreground": "#FF7788",
+			"fontStyle": "bold",
+		},
 	},
 
 	"tokenColors": [
@@ -244,7 +267,7 @@
 		{
 			"name": "Underline",
 			"scope": [
-				"markup.underline",
+				"markup.underline.link",
 			],
 			"settings": {
 				"fontStyle": "underline",
