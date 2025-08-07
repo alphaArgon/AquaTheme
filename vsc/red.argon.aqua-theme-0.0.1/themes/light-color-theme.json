@@ -239,7 +239,7 @@
 				"support.function",
 				"support.variable",
 				"support.constant",
-				"entity.other.attribute-name.xml",  //  XML
+				"entity.other.attribute-name.localname.xml",  //  XML
 				"entity.other.attribute-name.html",  //  HTML
 			],
 			"settings": {
