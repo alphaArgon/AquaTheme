@@ -102,6 +102,12 @@
 				"meta.preprocessor",
 				"markup.inline.raw",  // Markdown
 				"markup.fenced_code.block",  // Markdown
+				"punctuation.definition.character-class",
+				"punctuation.definition.group",
+				"keyword.control.anchor.regexp",
+				"keyword.operator.quantifier",
+				"keyword.operator.negation.regexp",
+				"keyword.operator.or.regexp",
 			],
 			"settings": {
 				"foreground": "#885500",
